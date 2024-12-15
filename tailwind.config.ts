@@ -10,7 +10,11 @@ export default {
       fontFamily: {
         poppins: ["var(--font-poppins)"]
       },
-      colors: {}
+      colors: {
+        brand: {
+          DEFAULT: "#FA7275"
+        }
+      }
     }
   },
   plugins: []
